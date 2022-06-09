@@ -1,4 +1,4 @@
-## Oiii eu sou o Alisson Alves, desenvolvedor Fullstack desde que me dou por gente!
+## Oi eu sou o Alisson Alves, desenvolvedor Fullstack desde que me dou por gente!
 <div align="center">
   <a href="https://github.com/AlissonSampaio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonSampaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
