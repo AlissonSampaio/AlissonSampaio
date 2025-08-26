@@ -1,6 +1,5 @@
-# Alisson Alves  
+# Alisson Alves - Senior Full-Stack Developer
 
-**Senior Full-Stack Developer**  
 Specialized in building scalable, reliable, and high-impact digital products.  
 
 With strong expertise in **React, Node.js, and TypeScript**, I have delivered enterprise solutions across **finance, retail, and healthcare**. My experience spans **cloud-native architectures (GCP, AWS)**, **microservices**, and **Web3 technologies**, always with a focus on clean code, maintainability, and performance.  
