@@ -11,7 +11,7 @@
   <img align="center" alt="Alisson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alisson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alisson-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Alisson-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/551801435319173121/984511380206002277/alissonics_com_borda.png?width=676&height=676">
+  <img align="right" alt="Alisson-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/439082745440763924/1409931318107574415/WhatsApp_Image_2025-07-08_at_15.25.00.jpeg?ex=68af2c5d&is=68addadd&hm=c5ba677d47e0af34395d968932c8bb403df77d93a079eb2523ff84ec7b340a07&?width=676&height=676">
 </div>
   
   ##
